@@ -17,6 +17,9 @@ const propertySchema = mongoose.Schema({
   tenantNotes: { type: String, required: false },
 });
 
-const CitrusProperty = mongoose.model("CitrusProperty", propertySchema);
+const PropertyProProperty = mongoose.model(
+  "PropertyProProperty",
+  propertySchema
+);
 
-module.exports = CitrusProperty;
+module.exports = PropertyProProperty;
