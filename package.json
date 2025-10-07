@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/archie-manek/milestoneTwo.git"
+    "url": "git+https://github.com/archieee21/milestoneTwo.git"
   },
   "author": "Archi Kaushik Manek",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/archie-manek/milestoneTwo/issues"
+    "url": "https://github.com/archieee21/milestoneTwo/issues"
   },
-  "homepage": "https://github.com/archie-manek/milestoneTwo#readme",
+  "homepage": "https://github.com/archieee21/milestoneTwo#readme",
   "dependencies": {
     "@emotion/react": "^11.9.3",
     "@emotion/styled": "^11.9.3",
